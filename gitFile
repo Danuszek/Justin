@@ -1,10 +1,14 @@
 base file
 M 1 in B main
 M 2 in B main from IDz
+<<<<<<< HEAD
 <<<<<<< Upstream, based on origin/main
 M 4 in B main
 =======
 M 3 in B for B B2
 >>>>>>> 9cfdafd Update gitFile
+=======
+M 3 in B for B B2
+>>>>>>> branch 'B2' of git@github.com:Danuszek/Justin.git
 
 
